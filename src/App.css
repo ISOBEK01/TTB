@@ -1,0 +1,15 @@
+.App {
+  width: 1600px;
+  height: 100vh;
+}
+
+hr {
+  background: linear-gradient(90deg, #f9f6ff00, #01b3b0 50%, #f9f6ff00);
+  border-radius: 1px;
+  bottom: 0;
+  content: "";
+  height: 2px;
+  position: absolute;
+  transition: .5s;
+  width: 100%;
+}
